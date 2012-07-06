@@ -1,0 +1,9 @@
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\bin\Release\TocomDataParse.exe
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\bin\Release\TocomDataParse.pdb
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\obj\x86\Release\ResolveAssemblyReference.cache
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\obj\x86\Release\TocomDataParse.Form1.resources
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\obj\x86\Release\TocomDataParse.Properties.Resources.resources
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\obj\x86\Release\GenerateResource.read.1.tlog
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\obj\x86\Release\GenerateResource.write.1.tlog
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\obj\x86\Release\TocomDataParse.exe
+E:\DADA版本控制程式\WinAP\TocomDataParse\TocomDataParse\obj\x86\Release\TocomDataParse.pdb
